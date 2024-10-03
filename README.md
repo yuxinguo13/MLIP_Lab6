@@ -13,7 +13,7 @@ To receive credit for this lab, show your work to the TA during recitation.
 ## Environment Set Up
 Since we recommend you to use team server, your teammate may already finish this step on your team server. 
 
-###**Please do not install Java and Jenkins again if your teammate have already done it.**### 
+###**Please do not install Java and Jenkins again if your teammate have already done it.**
 Since Jenkins has many installation options, please communicate with your teammate to settle down a way you prefer. This lab recommends install Jenkins as a system service using JVM but the final choice is yours. </br> What's more, please strictly keep your credentials of Jenkins secret from anyone outside your group. Our team server has public IP and malicious attacker can cause significant harm to your VM by breaching Jenkins.
 ### Java Installation
 - Go to [Jenkins Installation Page](https://www.jenkins.io/doc/book/installing/), select the Operating System you currently use. For your team server, please select [linux](https://www.jenkins.io/doc/book/installing/linux/).
